@@ -25,6 +25,6 @@ What is the name of openSUSE's Administration/Installation Tool?
 <details>
     <summary>Quiz Answer</summary>
 
-    yast
+        yast
 </details>
 

@@ -25,5 +25,5 @@ What is RHEL branched off of?
 <details>
     <summary>Quiz Answer</summary>
 
-    Fedora
+        Fedora
 </details>

@@ -4,7 +4,7 @@
 
 ## Test_MD_Site
 I have tried to make the site work just by using MD files so, i don't know.
-Link to [English Version](lessons/locales/en_english/getting-started/linux-history.md)
+Link to [English Version](lessons/locales/en_english/home_page.md)
 
 ## Project Hiatus
 

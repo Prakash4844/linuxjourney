@@ -26,5 +26,5 @@ What operating system is Ubuntu based off of?
 <details>
     <summary>Quiz Answer</summary>
 
-    Debian
+        Debian
 </details>

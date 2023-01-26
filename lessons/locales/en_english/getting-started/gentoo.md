@@ -25,5 +25,5 @@ What package management system does Gentoo use?
 <details>
     <summary>Quiz Answer</summary>
 
-    Portage
+        Portage
 </details>

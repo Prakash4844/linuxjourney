@@ -25,5 +25,5 @@ What is Linux Mint based off of?
 <details>
     <summary>Quiz Answer</summary>
 
-    Ubuntu
+        Ubuntu
 </details>

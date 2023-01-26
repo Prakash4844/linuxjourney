@@ -25,5 +25,5 @@ What package manager does RHEL use?
 <details>
     <summary>Quiz Answer</summary>
 
-    RPM
+        RPM
 </details>

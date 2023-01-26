@@ -25,7 +25,7 @@ What package manager does Arch Linux use?
 <details>
     <summary>Quiz Answer</summary>
 
-    Pacman
+        Pacman
 </details>
 
 
