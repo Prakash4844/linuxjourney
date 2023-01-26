@@ -90,6 +90,8 @@ paper</pre>
 
 Какая команда используется для удаления дубликатов в файле?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 uniq

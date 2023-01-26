@@ -14,4 +14,6 @@ No exercises for this lesson.
 
 No questions, move along!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

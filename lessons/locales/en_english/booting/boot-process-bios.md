@@ -24,6 +24,8 @@ Go into your BIOS menu and see if you have UEFI booting enabled.
 
 What does the BIOS load? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 bootloader

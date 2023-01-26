@@ -23,6 +23,8 @@ If you're interested in having Ubuntu as your operating system, head over to the
 
 What operating system is Ubuntu based off of?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Debian
+    Debian
+</details>

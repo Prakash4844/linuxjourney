@@ -21,6 +21,8 @@ hello</pre>
 
 Какая команда используется для перевода символов?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 tr

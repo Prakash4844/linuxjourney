@@ -35,6 +35,8 @@ Observe what happens to your ARP cache when you reboot your machine and then do 
 
 What command can you use to view your ARP cache?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 arp

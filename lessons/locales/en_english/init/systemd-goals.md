@@ -60,6 +60,8 @@ View the unit statuses and start and stop a few services. What do you observe?
 
 What is the command to start a service named peanut.service?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo systemctl start peanut.service

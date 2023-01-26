@@ -24,6 +24,8 @@ There are many other ways to create files that involve other things like redirec
 
 How do you create a file called myfile?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 touch myfile

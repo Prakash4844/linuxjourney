@@ -24,6 +24,8 @@ Look at your /var/log/messages and /var/log/syslog files and see what the differ
 
 What log file logs everything except auth messages?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 syslog

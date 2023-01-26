@@ -22,6 +22,8 @@ Archは、Pacmanという独自のパッケージ管理システムを使って�
 
 Arch Linuxが使っているパッケージ管理システムは？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Pacman

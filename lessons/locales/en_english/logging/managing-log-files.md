@@ -16,6 +16,8 @@ Look at your logrotate configuration file and see how it manages some of your lo
 
 What utility is used to manage logs?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 logrotate

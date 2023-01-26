@@ -27,6 +27,8 @@
 
 Какой ключ прдставляет оператор конвейера?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 |

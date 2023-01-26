@@ -65,6 +65,8 @@ Familiarize yourself with the tar documentation and look at the other options av
 
 What tar flag is used to create archives?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 c

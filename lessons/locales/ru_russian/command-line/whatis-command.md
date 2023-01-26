@@ -16,6 +16,8 @@
 
 Какую команду вы будете использовать для просмотра короткого описания команды?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 whatis

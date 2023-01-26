@@ -48,6 +48,8 @@ $ cd -
 
 Если вы в /home/pete/Pictures и хотите перейи в /home/pete, какую команду нужно выполнить?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cd ..

@@ -28,6 +28,8 @@
 
 Какая команда очищает терминал? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 clear

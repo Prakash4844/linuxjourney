@@ -19,6 +19,8 @@ No exercises for this lesson.
 
 What letter is used to move down?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 k

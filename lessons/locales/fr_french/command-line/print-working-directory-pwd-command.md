@@ -33,6 +33,8 @@ Pas d'exercices dans cette leçon.
 
 Comment trouve t-on le répertoire dans lequel on se trouve actuellement?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 pwd

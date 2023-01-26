@@ -34,6 +34,8 @@ Create a new user then change their password and login as the new user.
 
 What command is used to change a password?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 passwd

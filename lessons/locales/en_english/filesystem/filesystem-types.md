@@ -43,6 +43,8 @@ Do a little bit of research online on the other filesystem types: ReiserFS, ZFS,
 
 What is the common Linux filesystem type?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ext4

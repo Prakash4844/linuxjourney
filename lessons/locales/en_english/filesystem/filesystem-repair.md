@@ -16,6 +16,8 @@ Look at the manpage for fsck to see what else it can do.
 
 What command is used to check the integrity of a filesystem?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 fsck

@@ -26,6 +26,8 @@ No exercises for this lesson.
 
 What is the de facto DNS server for Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 BIND

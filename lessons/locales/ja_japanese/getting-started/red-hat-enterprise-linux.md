@@ -22,6 +22,8 @@ RHELベースのオペレーティングシステムは、Debianベースのも�
 
 RHELの使っているパッケージマネージャは何？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 RPM

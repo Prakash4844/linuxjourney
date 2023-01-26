@@ -36,6 +36,8 @@ Rename a file, then move that file to a different directory.
 
 How do you rename a file called cat to dog?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mv cat dog

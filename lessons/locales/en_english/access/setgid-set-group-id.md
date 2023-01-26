@@ -28,6 +28,8 @@ No exercises for this lesson.
 
 What number represents the SGID?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 2

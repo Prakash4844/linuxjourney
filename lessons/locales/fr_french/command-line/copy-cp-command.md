@@ -39,6 +39,8 @@ Copiez des fichiers, faites attention à ne pas écraser quelque chose d'importa
 
 Quel paramètre dois-tu utiliser pour copier tout un répertoire?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -r

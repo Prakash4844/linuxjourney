@@ -22,6 +22,8 @@ Si vous voulez avoir Fedora comme système d'exploitation, rendez vous jusqu'à 
 
 De quoi dérive RHEL?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Fedora

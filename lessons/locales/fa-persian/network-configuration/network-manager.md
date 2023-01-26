@@ -58,6 +58,8 @@ State: connected (global)
 
 از کدام دستور می‌توانید برای دیدن اطلاعات `NetworkManager` استفاده کنید؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 nm-tool

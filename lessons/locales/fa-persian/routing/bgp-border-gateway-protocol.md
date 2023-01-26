@@ -14,6 +14,8 @@ No exercises for this lesson.
 
 What protocol basically makes the Internet work?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 BGP

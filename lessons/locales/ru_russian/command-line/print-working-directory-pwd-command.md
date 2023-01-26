@@ -33,6 +33,8 @@
 
 Как найти директорию, в которой вы сейчас находитесь?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 pwd

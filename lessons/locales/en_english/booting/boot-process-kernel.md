@@ -20,6 +20,8 @@ No exercises for this lesson.
 
 What is used in modern systems to load up a temporary root filesystem?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 initramfs

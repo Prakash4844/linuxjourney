@@ -91,6 +91,8 @@ What result would you get if you tried uniq -uc?
 
 What command would you use to remove duplicates in a file?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 uniq

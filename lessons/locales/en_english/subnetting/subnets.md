@@ -36,6 +36,8 @@ Use ifconfig to view your subnet mask.
 
 True or false, a subnet consists of a subnet mask and network prefix.
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 True

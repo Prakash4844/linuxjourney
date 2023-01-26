@@ -43,6 +43,8 @@ If you are running System V, change the default runlevel of your machine to some
 
 What runlevel is usually used for shutdown?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 0

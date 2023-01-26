@@ -26,6 +26,8 @@ No exercises for this lesson.
 
 How many bytes are in an IPv4 address?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 4

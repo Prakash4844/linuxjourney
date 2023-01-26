@@ -26,6 +26,8 @@ One cool thing to note is that find doesn’t stop at the directory you are sear
 
 What option should I specify for find if I want to search by name?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -name

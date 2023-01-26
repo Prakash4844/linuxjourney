@@ -24,6 +24,8 @@ Si estas interesado en tener Debian como tu sistema operativo, dirígete a la se
 
 ¿Qué tipo de liberaciones uilizan las ramas Testing y Unstable?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Continuas

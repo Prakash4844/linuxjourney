@@ -31,6 +31,8 @@ If you have GRUB as your bootloader, go into the GRUB menu with 'e' and take a l
 
 What kernel parameter makes it so you don't see bootup messages?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 quiet

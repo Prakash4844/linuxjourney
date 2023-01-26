@@ -18,6 +18,8 @@ Try setting up a SimpleHTTPServer!
 
 What tool can you use to create a simple http server with python?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 SimpleHTTPServer

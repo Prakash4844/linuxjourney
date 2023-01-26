@@ -18,6 +18,8 @@
 
 Какой командой можно создать директорию?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mkdir

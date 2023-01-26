@@ -76,6 +76,8 @@ grep [regular expression here] [file]
 
 What regular expression would you use to match a single character?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 .

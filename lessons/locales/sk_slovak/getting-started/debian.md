@@ -25,6 +25,8 @@ Ak vás Debian zaujal a chcete ho ako svoj systém, zamierte do inštalačnej se
 
 Aký druh vydaní majú vetvy Testing a Unstable? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Rolling

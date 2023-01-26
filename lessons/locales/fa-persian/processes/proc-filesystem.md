@@ -22,6 +22,8 @@ No exercises for this lesson.
 
 What filesystem stores process information?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /proc

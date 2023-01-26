@@ -33,4 +33,6 @@ Take a look at the /etc/shadow file
 
 No questions move along!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

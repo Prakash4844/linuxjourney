@@ -16,6 +16,8 @@ No exercises for this lesson.
 
 What is the term used when all routing tables know the network topology?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 convergence

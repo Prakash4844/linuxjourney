@@ -23,6 +23,8 @@ Red Hatベースのオペレーティングシステムで、値札のついて�
 
 RHELは何から枝分かれして作られている？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Fedora

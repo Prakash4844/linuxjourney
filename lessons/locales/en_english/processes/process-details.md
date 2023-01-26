@@ -26,6 +26,8 @@ No exercises for this lesson.
 
 What manages and controls processes?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 kernel

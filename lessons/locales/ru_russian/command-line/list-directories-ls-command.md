@@ -40,6 +40,8 @@ drwxr-x--- 2 pete penguingroup   4096 Jul 27 12:41   Videos</pre>
 
 Какую комнду вы будете использовать для просмотра скрытых файлов?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ls -a

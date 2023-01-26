@@ -16,6 +16,8 @@ No exercises for this lesson.
 
 True or false, distance protocols use the route with the least amount of bandwidth?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 false

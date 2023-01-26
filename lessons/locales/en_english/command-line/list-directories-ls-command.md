@@ -40,6 +40,8 @@ Run ls with different flags and see the output you receive.
 
 What command would you use to see hidden files?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ls -a

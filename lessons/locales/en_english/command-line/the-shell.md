@@ -29,6 +29,8 @@ Try some other Linux commands and see what they output:
 
 What should be outputted to the display when you type echo Hello World?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Hello World

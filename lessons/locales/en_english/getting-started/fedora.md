@@ -22,6 +22,8 @@ If you're interested in having Fedora as your operating system, head over to the
 
 What is RHEL branched off of?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Fedora
+    Fedora
+</details>

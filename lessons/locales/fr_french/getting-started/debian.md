@@ -25,7 +25,9 @@ Si vous voulez avoir Debian comme système d'exploitation, rendez vous jusqu'à 
 
 Quel type de publication ont les Test et Instable?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Continue
 

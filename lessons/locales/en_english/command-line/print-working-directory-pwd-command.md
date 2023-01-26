@@ -33,6 +33,8 @@ No exercises for this lesson.
 
 How do I find what directory you are currently in?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 pwd

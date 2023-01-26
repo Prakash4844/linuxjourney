@@ -16,6 +16,8 @@
 
 איזו דרך טובה ישנה לצפייה בתוכן של קובץ?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cat

@@ -40,6 +40,8 @@ Exécutez ls avec différents paramètres et regardez le résultat reçu.
 
 Quelle commande devriez vous utiliser pour voir les fichiers cachés?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ls -a

@@ -27,6 +27,8 @@ Exécutez la commande less sur un fichier, puis parcourez le. Lancez la recherch
 
 Comment quitte t-on la commande less?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 q

@@ -22,6 +22,9 @@ If you're interested in having openSUSE as your operating system, head over to t
 
 What is the name of openSUSE's Administration/Installation Tool?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-yast
+    yast
+</details>
+

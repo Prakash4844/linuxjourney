@@ -23,6 +23,8 @@ Ak vás Ubuntu zaujalo a chcete ho ako svoj systém, zamierte do inštalačnej s
 
 Z ktorého operačného systému vychádza Ubuntu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Debian

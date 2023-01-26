@@ -25,6 +25,8 @@ $ pwd <b>&lt;</b> peanuts.txt <b>&gt;</b> banana.txt
 
 What redirector do you use to redirect stdin?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 <

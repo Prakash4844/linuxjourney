@@ -22,6 +22,8 @@ Ubuntuがもとになっているので、Linux MintはDebianパッケージ管�
 
 Linux Mintのもとになっているディストリビューションは？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Ubuntu

@@ -39,6 +39,8 @@ $ cut -c -5 sample.txt
 
 What command would you use to get the first character of every line in a file?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cut -c 1

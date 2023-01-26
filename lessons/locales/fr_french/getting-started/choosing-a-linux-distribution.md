@@ -25,4 +25,6 @@ Pas de question pour cette leçon.
 
 Aucune question, passez au cours suivant
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

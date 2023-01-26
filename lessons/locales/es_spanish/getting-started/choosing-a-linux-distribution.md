@@ -24,5 +24,7 @@ No hay ejercicios para esta leccion
 
 ¡No hay preguntas, adelante!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 

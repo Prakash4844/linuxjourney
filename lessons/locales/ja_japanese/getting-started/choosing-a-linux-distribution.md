@@ -24,4 +24,6 @@ Linuxシステムは、大きく3つの部分に分けられる。
 
 クイズはありません。次へ行こう！
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

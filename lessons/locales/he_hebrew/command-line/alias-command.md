@@ -24,6 +24,8 @@
 
 איזו פקודה משמשת ליצירת כינוי?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 alias

@@ -59,6 +59,8 @@ Use the ps command with different flags and see how the output changes.
 
 What ps flag is used to view detailed information about processes?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 u

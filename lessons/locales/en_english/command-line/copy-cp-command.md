@@ -38,6 +38,8 @@ Copy over a couple of files, be careful not to overwrite anything important.
 
 What flag do you need to specify to copy over a directory?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -r

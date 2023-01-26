@@ -50,6 +50,8 @@ The real power of sort comes with its ability to be combined with other commands
 
 What flag do you use to do a reverse sort?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -r

@@ -18,6 +18,8 @@ Run the man command on the ls command.
 
 How do you see the manuals for a command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 man

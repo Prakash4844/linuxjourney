@@ -67,6 +67,8 @@ Move some jobs between the background and the foreground
 
 What command is used to list background jobs?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 jobs

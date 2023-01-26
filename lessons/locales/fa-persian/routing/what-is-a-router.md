@@ -22,6 +22,8 @@ No exercises for this lesson.
 
 How do packets measure distance?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 hops

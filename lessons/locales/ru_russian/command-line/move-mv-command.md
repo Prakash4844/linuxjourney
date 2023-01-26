@@ -36,6 +36,8 @@
 
 Как переименовать файл cat в dog?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mv cat dog

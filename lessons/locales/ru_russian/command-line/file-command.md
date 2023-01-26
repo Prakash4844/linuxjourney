@@ -18,6 +18,8 @@
 
 Какую команду вы будете использовать для определения типа файла?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 file

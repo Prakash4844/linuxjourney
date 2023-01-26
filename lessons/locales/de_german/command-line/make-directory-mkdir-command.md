@@ -18,6 +18,9 @@ Lege ein paar Ordner an und verschiebe ein paar Dateien in diese.
 
 Wie heißt das Kommando zum erstellen von Ordnern?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+    mkdir
+</details>
 
-mkdir
+

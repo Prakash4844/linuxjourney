@@ -12,6 +12,8 @@ Read more about the OSI model: <a href="https://en.wikipedia.org/wiki/OSI_model"
 
 What is used as the theoretical model of networking?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 OSI

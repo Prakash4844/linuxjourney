@@ -23,6 +23,8 @@ Read the manpage for NFS to learn more.
 
 What tool is used to manage mount points automatically?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 automount

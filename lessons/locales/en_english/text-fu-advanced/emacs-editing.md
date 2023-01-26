@@ -31,6 +31,8 @@ Play around with text navigation.
 
 How do you move to the end of the buffer?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 M->

@@ -35,6 +35,8 @@ Look inside your /usr directory, what kind of information is located there?
 
 What directory is used to store logs? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /var

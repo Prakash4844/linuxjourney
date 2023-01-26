@@ -44,6 +44,8 @@
 
 Какой оператор используется для перенаправления stderr?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 2>

@@ -48,6 +48,8 @@ $ cd -
 
 אם המיקום הוא /home/pete/Pictures ונרצה לעבור אל /home/pete, באיזה קיצור דרך כדאי להשתמש?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cd ..

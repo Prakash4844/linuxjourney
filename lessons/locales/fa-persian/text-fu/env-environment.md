@@ -50,6 +50,8 @@ What does the following output? Why?
 
 How do you see your environment variables?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 env

@@ -15,6 +15,8 @@ Exécutez la commande cat sur différents fichiers et répertoires. Puis essayez
 ## Quiz Question
 Quel est un bon moyen de lire le contenu d'un fichier?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cat

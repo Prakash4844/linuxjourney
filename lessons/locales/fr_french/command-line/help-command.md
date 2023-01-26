@@ -20,6 +20,8 @@ Exécutez help sur les commandes echo, logout et pwd.
 
 Comment obtenez-vous une aide rapide sur une ligne de commande bash?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 help

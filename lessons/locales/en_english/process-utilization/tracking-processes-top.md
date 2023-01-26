@@ -78,6 +78,8 @@ Play around with the top command and see what processes are using the most resou
 
 What command displays the same output as the first line in top?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 uptime

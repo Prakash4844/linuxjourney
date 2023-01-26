@@ -33,6 +33,8 @@ Use the dd command to make a backup of your drive and set the output to a .img f
 
 What is the dd option for block size?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 bs

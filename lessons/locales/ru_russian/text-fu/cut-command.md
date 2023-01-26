@@ -39,6 +39,8 @@ $ cut -c -5 sample.txt
 
 Какая команда вам нужна, чтобы получить первый символ каждой строки в файле?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cut -c 1

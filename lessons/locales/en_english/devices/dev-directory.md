@@ -20,6 +20,8 @@ Check out the contents of the /dev directory, do you recognize any familiar devi
 
 Where are device files stored on the system?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /dev

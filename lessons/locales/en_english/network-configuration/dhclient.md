@@ -18,6 +18,8 @@ No exercises for this lesson.
 
 What tries to assign IP addresses with the DHCP protocol?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 dhclient

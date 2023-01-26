@@ -22,6 +22,8 @@ Take a look at your running processes, can you see what other processes have par
 
 What system call creates a new process?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 fork

@@ -22,6 +22,8 @@ Si estas interesado en tener Ubuntu como tu sistema operativo, dirígete a la se
 
 ¿En cuál sistema operativo esta basado Ubuntu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Debian

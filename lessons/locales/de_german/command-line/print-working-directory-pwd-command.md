@@ -33,6 +33,8 @@ Keine Übung für diese Lektion.
 
 Wie mit welchem Befehl findest du das Verzeichnis heraus in dem du gerade bist?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 pwd

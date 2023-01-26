@@ -28,6 +28,8 @@ O simplemente usar el comando reboot.
 
 ¿Cuál es el comando para apagar tu sistema dentro de 4 minutos?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo shutdown -h +4

@@ -20,6 +20,8 @@ No exercises for this lesson.
 
 What ring number has the highest privileges?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 0

@@ -17,4 +17,6 @@ Take a little tour of vim and emacs:
 
 No questions move along!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

@@ -32,6 +32,8 @@
 
 Какая команда используется для поиска по шаблону?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 grep

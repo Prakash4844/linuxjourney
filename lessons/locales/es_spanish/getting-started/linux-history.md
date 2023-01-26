@@ -25,5 +25,7 @@ Lecturas adicionales:
 ## Quiz Question
 ¿Quién desarrollo el kernel Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 Linus Torvalds

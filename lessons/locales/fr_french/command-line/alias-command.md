@@ -24,6 +24,8 @@ Créez quelques alias puis supprimez-les.
 
 Quelle commande utilise-t-on peut créer un alias?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 alias

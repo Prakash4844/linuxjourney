@@ -26,6 +26,8 @@
 
 چه کسی هسته‌ی لینوکس را توسعه داد؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 لینوس تروالدز

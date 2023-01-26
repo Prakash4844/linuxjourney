@@ -64,6 +64,8 @@ Download and install the Wireshark tool and play around with the interface.
 
 What is the flag to capture a specific interface with tcpdump?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -i

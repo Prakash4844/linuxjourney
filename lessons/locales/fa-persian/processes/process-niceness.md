@@ -28,6 +28,8 @@ What processes aren't very nice and why?
 
 If I want a process to get more CPU priority, do I use a lower or higher nice number?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 lower

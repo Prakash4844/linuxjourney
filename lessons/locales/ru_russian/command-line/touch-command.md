@@ -24,6 +24,8 @@ Touch также используется для изменения времен
 
 Как вы создадите файл, названный myfile?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 touch myfile

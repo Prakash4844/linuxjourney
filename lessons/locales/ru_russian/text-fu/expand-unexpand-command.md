@@ -20,6 +20,8 @@
 
 Какой командой можно сконвертировать TABы в пробелы?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 expand

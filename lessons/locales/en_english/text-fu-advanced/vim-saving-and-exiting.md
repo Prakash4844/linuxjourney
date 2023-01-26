@@ -27,6 +27,8 @@ No exercises for this lesson.
 
 How do you quit out of vim without saving?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 :q!

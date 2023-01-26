@@ -9,4 +9,6 @@
 ## Quiz Question
 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

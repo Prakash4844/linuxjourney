@@ -23,6 +23,8 @@ No exercises for this lesson.
 
 What is the local area network known as?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 LAN

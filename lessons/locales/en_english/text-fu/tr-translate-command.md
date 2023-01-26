@@ -21,6 +21,8 @@ hello</pre>
 
 What command is used to translate characters?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 tr

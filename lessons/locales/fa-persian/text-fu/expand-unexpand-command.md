@@ -20,6 +20,8 @@ What happens if you just type expand with no file input?
 
 What command is used to convert TABs to spaces? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 expand

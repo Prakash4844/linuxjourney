@@ -27,6 +27,8 @@
 
 Как выйти из less?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 q

@@ -50,6 +50,8 @@ dog
 
 Какой флаг используется для обратной сортировки?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -r

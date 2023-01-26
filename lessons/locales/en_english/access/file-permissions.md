@@ -32,6 +32,8 @@ Use the ls -l command on multiple files and recite their permissions, user and g
 
 What permission bit is used for executable? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 x

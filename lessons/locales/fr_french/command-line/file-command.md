@@ -18,6 +18,8 @@ Exécutez la commande file sur quelques répertoires et fichiers et regardez les
 
 Quel commande pouvez-vous utiliser pour trouver le type de fichier d'un fichier?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 file

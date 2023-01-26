@@ -48,6 +48,8 @@ Essayez!
 
 Si vous êtes dans /home/pete/pictures et voulez aller à /home/pete, quel est le bon raccourci à utiliser?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cd ..

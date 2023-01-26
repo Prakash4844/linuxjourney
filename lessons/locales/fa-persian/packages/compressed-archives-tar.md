@@ -88,6 +88,8 @@ bzip2, compress, zip و… آشنا می‌شوید. این ابزار‌ها ک
 
 از کدام آرگومان tar برای ساخت یک فایل آرشیو جدید استفاده می‌شود؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 c

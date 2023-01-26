@@ -16,6 +16,8 @@
 
 Как вы можете просмотреть содержимое файла?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cat

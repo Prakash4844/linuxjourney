@@ -34,6 +34,8 @@ There are many different kernel versions, some are used as LTS (long term suppor
 
 How do you see the kernel version of your system?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 uname -r

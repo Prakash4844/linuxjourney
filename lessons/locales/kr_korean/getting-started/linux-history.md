@@ -28,6 +28,8 @@
 
 누가 Linux kernel을 개발했나요? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Linus Torvalds

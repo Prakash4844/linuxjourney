@@ -24,6 +24,8 @@ Try out each of these commands and see the output you receive.
 
 What command can be used to view usb devices?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 lsusb

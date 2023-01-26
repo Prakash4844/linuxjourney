@@ -14,6 +14,8 @@ No exercises for this lesson.
 
 What are smaller networks that make up the Internet called?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 subnets

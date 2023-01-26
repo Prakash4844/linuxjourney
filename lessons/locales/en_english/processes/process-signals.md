@@ -51,6 +51,8 @@ No exercises for this lesson.
 
 What signal is unblockable?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 SIGKILL

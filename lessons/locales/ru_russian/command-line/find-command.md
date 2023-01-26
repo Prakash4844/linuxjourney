@@ -26,6 +26,8 @@
 
 Какую опцию нужно указать, если я хочу искать по имени?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -name

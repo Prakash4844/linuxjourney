@@ -16,6 +16,8 @@ Make an ext4 filesystem on the USB drive.
 
 What command is used to create a filesystem?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mkfs

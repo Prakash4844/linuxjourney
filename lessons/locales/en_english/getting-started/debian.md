@@ -25,6 +25,10 @@ If you're interested in having Debian as your operating system, head over to the
 
 What kind of release does Testing and Unstable have? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Rolling
+    Rolling
+</details>
+
+

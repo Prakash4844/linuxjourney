@@ -22,6 +22,8 @@ If you're interested in having Linux Mint as your operating system, head over to
 
 What is Linux Mint based off of?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Ubuntu
+    Ubuntu
+</details>

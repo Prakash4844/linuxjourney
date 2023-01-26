@@ -42,6 +42,8 @@ No exercises for this lesson.
 
 What unit is used to group together other units?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 target

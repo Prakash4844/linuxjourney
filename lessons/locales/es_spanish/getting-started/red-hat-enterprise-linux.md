@@ -22,6 +22,8 @@ Si estas interesado en tener RHEL como tu sistema operativo, dirígete a la secc
 
 ¿Qué administrador de paquetes utiliza RHEL?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 RPM

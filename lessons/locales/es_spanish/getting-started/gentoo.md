@@ -22,6 +22,8 @@ Si estas interesado en tener Gentoo como tu sistema operativo, dirígete a la se
 
 ¿Qué administrador de paquetes utiliza Gentoo?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Portage

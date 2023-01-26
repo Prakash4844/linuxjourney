@@ -16,6 +16,8 @@ Run the whatis command on the less command.
 
 What command can you use to see a small description of a command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 whatis

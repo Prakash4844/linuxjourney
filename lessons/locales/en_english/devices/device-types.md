@@ -62,6 +62,8 @@ Look at your /dev directory and find out what types of devices you can see.
 
 What is the symbol for character devices in the ls -l command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 c

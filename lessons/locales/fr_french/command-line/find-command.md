@@ -26,6 +26,8 @@ Une chose géniale à savoir est que find ne s'arrête pas dans le répertoire o
 
 Quelle option devrais-je spécifier si je veux effectuer une recherche par nom?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -name

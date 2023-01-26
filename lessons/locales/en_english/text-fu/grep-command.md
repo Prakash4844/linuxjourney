@@ -32,6 +32,8 @@ You may have heard of egrep or fgrep, these are deprecated grep calls and have s
 
 What command do you use to find a certain pattern?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 grep

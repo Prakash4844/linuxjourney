@@ -22,6 +22,8 @@ Ak vás Linux Mint zaujal a chcete ho ako svoj systém, zamierte do inštalačne
 
 Na akom systéme je založený Linux Mint?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Ubuntu

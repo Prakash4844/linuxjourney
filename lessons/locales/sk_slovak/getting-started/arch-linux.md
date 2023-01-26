@@ -22,6 +22,8 @@ Ak vás Arch zaujal a chcete ho ako svoj systém, zamierte do inštalačnej sekc
 
 Ktorý manažér balíčkov používa Arch Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Pacman

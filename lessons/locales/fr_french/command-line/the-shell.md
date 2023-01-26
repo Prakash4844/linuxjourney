@@ -29,6 +29,8 @@ Essayez d'autres commandes Linux et voyez ce qu'elles affichent:
 
 Que devrait s'afficher quand vous saisissez la commande echo Hello World?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Hello World

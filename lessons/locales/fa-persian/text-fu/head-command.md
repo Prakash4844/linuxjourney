@@ -22,6 +22,8 @@ What does the following command do and why?
 
 What flag would you use to change the number of lines you want to view for the head command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -n

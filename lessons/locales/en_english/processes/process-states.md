@@ -24,6 +24,8 @@ Take a look at the running processes on your system and check out their process 
 
 What STAT code is used to represent an uninterruptible sleep? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 D

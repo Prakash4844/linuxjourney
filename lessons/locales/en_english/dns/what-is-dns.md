@@ -16,6 +16,8 @@ No exercises for this lesson.
 
 True or false, DNS helps us find MAC addresses for hostnames?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 false

@@ -30,6 +30,8 @@ Play around with opening files and saving files.
 
 What command is used to open a file?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 C-x C-f

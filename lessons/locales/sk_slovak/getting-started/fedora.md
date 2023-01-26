@@ -22,6 +22,8 @@ Ak vás Fedora zaujala a chcete ju ako svoj systém, zamierte do inštalačnej s
 
 What is RHEL branched off of?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Fedora

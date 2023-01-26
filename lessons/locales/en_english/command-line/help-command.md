@@ -20,6 +20,8 @@ Run help on the echo command, logout command and pwd command.
 
 How do you get quick command line help for built-in bash commands?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 help

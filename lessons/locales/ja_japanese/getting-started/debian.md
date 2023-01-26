@@ -24,6 +24,8 @@ Debianは、どんなプラットフォームにおいても、全般的に優�
 
 TestingとUnstableブランチのリリース形態は？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ローリングリリース

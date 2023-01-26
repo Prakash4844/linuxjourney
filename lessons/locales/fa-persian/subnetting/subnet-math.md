@@ -21,6 +21,8 @@ No exercises for this lesson.
 
 What is the binary equivalent of 255?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 11111111

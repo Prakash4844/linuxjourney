@@ -80,6 +80,8 @@ Run <b>parted -l</b> on your machine and evaluate your results.
 
 What partition type is used to create more than 4 partitions in the MBR partitioning scheme?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 extended

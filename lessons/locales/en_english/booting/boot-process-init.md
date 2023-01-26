@@ -28,6 +28,8 @@ No exercises for this lesson.
 
 What is the newest standard for init?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 systemd

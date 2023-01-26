@@ -25,6 +25,8 @@ No exercises for the this lesson.
 
 No questions, skip ahead!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 

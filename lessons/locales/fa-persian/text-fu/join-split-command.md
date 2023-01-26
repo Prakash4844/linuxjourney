@@ -59,6 +59,8 @@ Join two files with different number of lines in each file, what happens?
 
 What command would you use to join files named cat dog cow?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 join cat dog cow

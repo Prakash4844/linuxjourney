@@ -33,6 +33,8 @@ Partition the free space in the USB drive for swap space.
 
 What is the command to enable swap space on a device? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 swapon

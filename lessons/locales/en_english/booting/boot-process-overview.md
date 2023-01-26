@@ -32,6 +32,8 @@ Reboot your system and see if you can spot each step as your machine boots up.
 
 What is the last stage in the Linux boot process?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 init

@@ -16,6 +16,8 @@ Look at your dmesg and kern logs, what differences do you notice?
 
 What command can be used to view kernel bootup messages?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 dmesg

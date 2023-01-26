@@ -20,6 +20,8 @@ No exercises for this lesson.
 
 What level of the operating system manages devices?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 kernel

@@ -23,6 +23,8 @@ Go into your boot directory and see what files are in there.
 
 What is the kernel image called in /boot?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 vmlinuz

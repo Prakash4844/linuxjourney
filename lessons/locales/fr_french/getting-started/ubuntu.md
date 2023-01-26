@@ -23,6 +23,8 @@ Si vous voulez avoir Ubuntu comme système d'exploitation, rendez vous jusqu'à 
 
 Sur quel système d'exploitation est basé Ubuntu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Debian

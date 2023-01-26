@@ -24,6 +24,8 @@ When you run the umask command it will give that default set of permissions on a
 
 What command is used to change default file permissions?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 umask

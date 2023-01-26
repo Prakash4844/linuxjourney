@@ -26,6 +26,8 @@ A tak v roku 1991 mladý chlapík menom Linus Torvalds začal s vývojom niečoh
 
 Kto vyvinul linuxové jadro? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Linus Torvalds

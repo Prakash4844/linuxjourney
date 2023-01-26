@@ -18,6 +18,8 @@ Créez des répertoires et déplacer quelques fichiers à l'intérieur.
 
 Quelle commande utilise t-on pour créer un répertoire?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mkdir

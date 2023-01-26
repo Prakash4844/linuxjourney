@@ -38,6 +38,8 @@ Look at your /etc/rsyslog.d configuration file and see what else is being logged
 
 What command can you use to manually log a message?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 logger

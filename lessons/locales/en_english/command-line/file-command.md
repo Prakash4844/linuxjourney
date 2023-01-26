@@ -18,6 +18,8 @@ Run the file command on a few different directories and files and note the outpu
 
 What command can you use to find the file type of a file?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 file

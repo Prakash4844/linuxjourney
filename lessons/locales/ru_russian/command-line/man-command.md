@@ -18,6 +18,8 @@
 
 Как посмотреть руководство по команде?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 man

@@ -71,6 +71,8 @@ Play around with making symlinks and hardlinks, delete a couple and see what hap
 
 What is the command used to make a symlink?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ln -s

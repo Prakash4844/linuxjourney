@@ -28,6 +28,8 @@ $ sudo dhclient
 
 کدام دستور امکان اختصاص یک شناسهٔ IP جدید از طریق پروتکل DHCP را فراهم می‌کند؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 dhclient

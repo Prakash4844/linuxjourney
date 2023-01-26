@@ -24,6 +24,8 @@ Run the traceroute command on your machine and observe the output.
 
 What gets decremented by one when making hops across the network?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ttl

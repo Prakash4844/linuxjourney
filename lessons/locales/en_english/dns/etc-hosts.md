@@ -43,6 +43,8 @@ No exercises for this lesson.
 
 What file is used to map hostnames to IP addresses on our machines?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /etc/hosts

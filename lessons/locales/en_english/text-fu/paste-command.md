@@ -32,6 +32,8 @@ Try to paste multiple files together, what happens?
 
 What flag do you use with paste to make everything go on one line? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -s

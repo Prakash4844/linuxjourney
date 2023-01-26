@@ -43,6 +43,8 @@ $ > somefile.txt
 
 What redirector do you use to append output to a file? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 >>

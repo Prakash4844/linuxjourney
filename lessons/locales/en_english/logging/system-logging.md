@@ -27,6 +27,8 @@ Look at your /var/log/syslog file and see what else is happening on your machine
 
 What is the daemon that manages log on newer Linux systems?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 rsyslogd

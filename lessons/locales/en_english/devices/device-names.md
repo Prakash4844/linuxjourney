@@ -43,6 +43,8 @@ Write to the pseudo devices and see what happens, be careful not to write your d
 
 What would commonly be the device name for the first partition on the second SCSI disk?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sdb1

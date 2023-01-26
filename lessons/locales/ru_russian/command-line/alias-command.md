@@ -24,6 +24,8 @@
 
 Какая команда используется для создания алиасов?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 alias

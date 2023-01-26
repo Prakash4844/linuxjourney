@@ -39,6 +39,8 @@ No exercises for this lesson.
 
 What is used to find the MAC address on the same network?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ARP

@@ -16,6 +16,8 @@ Exécutez la commande whatis sur la commande less.
 
 Quelle commande peut-on utiliser pour voir une brève description d'une commande?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 whatis

@@ -28,6 +28,8 @@ What do you think is happening with init when you shutdown your machine?
 
 What is the command to poweroff your system in 4 minutes?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo shutdown -h +4

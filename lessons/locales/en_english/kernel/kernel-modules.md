@@ -48,6 +48,8 @@ Unload your bluetooth module with modprobe and see what happens. How will you fi
 
 What command is used to unload a module?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 modprobe -r

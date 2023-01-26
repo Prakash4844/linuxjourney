@@ -36,6 +36,8 @@ Play around with buffers.
 
 How do you kill a buffer?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 C-x k

@@ -36,6 +36,8 @@ Renommez un fichier, puis déplacez dans un répertoire différent.
 
 Comment renommer le fichier "cat" en "dog"?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mv cat dog

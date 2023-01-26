@@ -43,6 +43,8 @@ Si estás corriendo System V init, cambia el nivel de ejecución por defecto de 
 
 ¿Qué nivel de ejecución es usado generalmente para apagar el sistema?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 0

@@ -21,6 +21,8 @@ Si vous voulez avoir RHEL comme système d'exploitation, rendez vous jusqu'à la
 
 Quel gestionnaire de paquets utilise RHEL?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 RPM

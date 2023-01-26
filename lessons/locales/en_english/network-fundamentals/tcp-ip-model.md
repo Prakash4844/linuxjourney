@@ -50,6 +50,8 @@ No exercises for this lesson.
 
 What is the top layer of the TCP/IP model?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Application

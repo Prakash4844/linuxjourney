@@ -39,6 +39,8 @@
 
 Как удалить файл myfile?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 rm myfile

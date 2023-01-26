@@ -36,6 +36,8 @@ We haven't discussed processes yet, we can still take a look at this change happ
 
 What UID decides what access to grant?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 effective

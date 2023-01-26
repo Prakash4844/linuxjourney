@@ -61,6 +61,8 @@ Look at your memory usage with vmstat.
 
 What tool is used to view memory utilization?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 vmstat

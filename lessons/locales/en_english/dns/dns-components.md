@@ -35,6 +35,8 @@ No exercises for this lesson.
 
 What resource record type is used for mail exchangers?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 MX

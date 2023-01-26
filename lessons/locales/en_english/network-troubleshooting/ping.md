@@ -36,6 +36,8 @@ Do a ping on a website and look at the output you receive.
 
 What is the roundtrip time unit of measurement?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ms

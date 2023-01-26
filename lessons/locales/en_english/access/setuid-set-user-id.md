@@ -50,6 +50,8 @@ Look at the permission for /etc/passwd in detail, do you notice anything else? F
 
 What number represents the SUID?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 4

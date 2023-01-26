@@ -30,6 +30,8 @@ Play with the search key, open a text file in vim with: vim [textfile] and start
 
 What key is used to search in vim?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /

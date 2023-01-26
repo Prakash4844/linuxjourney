@@ -33,6 +33,8 @@ No exercises for this lesson.
 
 What is the ICMP type for echo request?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 8

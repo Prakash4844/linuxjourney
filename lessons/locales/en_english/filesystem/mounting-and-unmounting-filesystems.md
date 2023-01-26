@@ -41,6 +41,8 @@ Look at the manpage for mount and umount and see what other options you can use.
 
 What command is used to attach a filesystem?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mount

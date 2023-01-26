@@ -22,6 +22,8 @@
 
 Как выйти из консоли?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 exit

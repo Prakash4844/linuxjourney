@@ -14,6 +14,8 @@ No exercises for this lesson.
 
 What is one of the most common link state protocols?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 OSPF

@@ -58,6 +58,8 @@ Look at your IP address and subnet mask and see how many hosts you can have on y
 
 What is the binary conversion of 123?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 1111011

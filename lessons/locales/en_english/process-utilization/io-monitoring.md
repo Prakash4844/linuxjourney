@@ -44,6 +44,8 @@ Use iostat to view your disk usage.
 
 What command can be used to view I/O and CPU usage?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 iostat

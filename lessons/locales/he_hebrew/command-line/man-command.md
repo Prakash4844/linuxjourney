@@ -18,6 +18,8 @@
 
 איך ניתן לעיין במדריכי שימוש עבור פקודות?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 man

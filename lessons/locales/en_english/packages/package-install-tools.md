@@ -47,6 +47,8 @@ Find a program that you want to install on your system like Google Chrome and in
 
 What is the package management tool for .deb files?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 dpkg

@@ -28,6 +28,8 @@ What other files and directories do you think have a sticky bit enabled?
 
 What symbol represents the sticky bit?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 t

@@ -47,6 +47,8 @@ $ ip route delete 192.168.2.1/23
 
 از کدام آرگومان برای پاک کردن یک route استفاده می‌کنید؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 del

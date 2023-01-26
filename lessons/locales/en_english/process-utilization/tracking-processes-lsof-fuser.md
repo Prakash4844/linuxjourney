@@ -48,6 +48,8 @@ Read the manpages for lsof and fuser, there is a lot of information that we didn
 
 What command is used to list open files and their process information?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 lsof

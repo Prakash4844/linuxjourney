@@ -34,6 +34,8 @@ Kill some processes using different signals.
 
 What is the signal name for the default kill command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 SIGTERM

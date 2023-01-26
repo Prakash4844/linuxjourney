@@ -26,6 +26,8 @@ Lecture supplémentaire:
 
 Qui a développé le noyau Linux? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Linus Torvalds

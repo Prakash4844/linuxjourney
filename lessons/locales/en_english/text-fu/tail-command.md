@@ -26,6 +26,8 @@ Look at the man page of tail and read some of the other commands we didn't discu
 
 What is the flag used to follow a file in tail?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -f

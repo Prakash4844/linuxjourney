@@ -59,6 +59,8 @@ $ join -1 2 -2 1 file1.txt file2.txt
 
 Какой командой вы можете объединить файлы cat, dog, cow?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 join cat dog cow

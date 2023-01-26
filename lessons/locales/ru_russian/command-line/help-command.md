@@ -20,6 +20,8 @@ Linux имеет несколько встроенных иструментов,
 
 Как получить быструю помощь для встроенных в bash команд?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 help

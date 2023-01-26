@@ -50,6 +50,8 @@ Find a source code program (from a trusted site) and install from source.
 
 What should you use instead of make install ALWAYS? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 checkinstall

@@ -60,6 +60,8 @@ Observa el estado de las unidades e inicia y deten algunos servicios ¿Que notas
 
 ¿Cual es el comando para iniciar un servicio que se llama peanut.service?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo systemctl start peanut.service

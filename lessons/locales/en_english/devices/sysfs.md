@@ -26,6 +26,8 @@ Check out the contents of the /sys directory and see what files are located in t
 
 What directory is used to view detailed information on devices? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /sys

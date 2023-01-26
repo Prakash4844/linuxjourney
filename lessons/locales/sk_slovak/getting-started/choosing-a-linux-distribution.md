@@ -24,4 +24,6 @@ K tejto lekcii nie je cvičenie.
 
 Nemáme otázky, poďme ďalej!
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>

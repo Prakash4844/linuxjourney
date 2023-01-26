@@ -26,6 +26,8 @@
 
 Какой флаг нужен для указания файла в tail?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -f

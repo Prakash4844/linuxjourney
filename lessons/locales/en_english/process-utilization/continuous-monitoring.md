@@ -36,6 +36,8 @@ Install sar on your system and start collecting and analyzing your system resour
 
 What is a good tool to use for monitoring system resources?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sar

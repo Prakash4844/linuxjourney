@@ -69,6 +69,8 @@ Look at the manpage for netstat and learn all the features it has to offer.
 
 What port is used for HTTPS?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 443

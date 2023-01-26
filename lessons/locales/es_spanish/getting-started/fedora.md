@@ -22,6 +22,8 @@ Si estas interesado en tener Fedora como tu sistema operativo, dirígete a la se
 
 ¿De cuál sistema operativo se desprende RHEL?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Fedora

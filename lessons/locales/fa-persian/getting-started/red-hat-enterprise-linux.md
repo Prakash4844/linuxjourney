@@ -22,6 +22,8 @@ If you're interested in having RHEL as your operating system, head over to the i
 
 What package manager does RHEL use?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 RPM

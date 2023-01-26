@@ -29,6 +29,8 @@ Find your IP address with ifconfig.
 
 How many bytes are in an IPv4 address?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 4

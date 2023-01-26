@@ -22,6 +22,8 @@ If you're interested in having Gentoo as your operating system, head over to the
 
 What package management system does Gentoo use?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Portage
+    Portage
+</details>

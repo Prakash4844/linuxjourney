@@ -18,6 +18,8 @@
 
 באיזו פקודה יש להשתמש כדי ליצור תיקיות?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mkdir

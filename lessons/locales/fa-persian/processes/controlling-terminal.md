@@ -22,6 +22,8 @@ Look at your ps output and list all the unique TTY values.
 
 What value is given for a process that does not have a controlling terminal?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ?

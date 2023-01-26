@@ -47,6 +47,8 @@ Observe your list of Upstart jobs, now change the job state with one of the comm
 
 How would I manually restart an Upstart job called peanuts?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo initctl restart peanuts

@@ -28,6 +28,8 @@ No exercises for this lesson.
 
 What is the abbreviation for the nameservers where .com, .net, .org, etc addresses are found? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 TLD

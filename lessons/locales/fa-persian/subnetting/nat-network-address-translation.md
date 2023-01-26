@@ -28,6 +28,8 @@ No exercises for this lesson.
 
 What is used to represent a single private address to the Internet?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 NAT

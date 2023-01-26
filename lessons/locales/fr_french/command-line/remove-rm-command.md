@@ -39,6 +39,8 @@ Vous pouvez supprimer un répertoire avec la commande rmdir
 
 Comment supprimer un fichier appelé monfichier?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 rm monfichier

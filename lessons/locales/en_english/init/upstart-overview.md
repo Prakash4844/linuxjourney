@@ -44,6 +44,8 @@ If you are running Upstart, see if you can make sense of the job configurations 
 
 What is the init implementation that is used by Ubuntu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 upstart

@@ -22,6 +22,8 @@ Ak vás Gentoo zaujal a chcete ho ako svoj systém, zamierte do inštalačnej se
 
 Ako sa nazýva manažér balíčkov v systéme Gentoo?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Portage

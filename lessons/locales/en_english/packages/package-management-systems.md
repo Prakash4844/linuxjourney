@@ -42,6 +42,8 @@ Run through each of these package commands and see the output you receive.
 
 What command is used to show package information on a Debian system?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 apt show

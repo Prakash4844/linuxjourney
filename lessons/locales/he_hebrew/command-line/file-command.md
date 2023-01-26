@@ -18,6 +18,8 @@
 
 באיזו פקודה ניתן להשתמש כדי למצוא מה סוג הקובץ?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 file

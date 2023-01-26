@@ -29,6 +29,8 @@ Modify the group and user of some test files. Afterwards take a look at the perm
 
 What command do you use to change user ownership?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 chown

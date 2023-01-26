@@ -22,6 +22,8 @@ Exécutez la commande exit dans l'invité de commande et regardez ce qu'il se pa
 
 Comment peut-on sortir de l'invité de commande?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 exit

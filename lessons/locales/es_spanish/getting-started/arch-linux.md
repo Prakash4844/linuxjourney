@@ -22,6 +22,8 @@ Si estas interesado en tener Arch como tu sistema operativo, dirígete a la secc
 
 ¿Qué administrador de paquetes utiliza Arch Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Pacman

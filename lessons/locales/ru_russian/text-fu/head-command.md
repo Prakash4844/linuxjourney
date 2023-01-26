@@ -22,6 +22,8 @@
 
 Какой флаг вам нужен, чтобы изменить количество строк, которые вы хотите увидеть, для команды head?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -n

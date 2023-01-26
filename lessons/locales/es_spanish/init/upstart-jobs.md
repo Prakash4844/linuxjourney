@@ -47,6 +47,8 @@ Observa tu lista de trabajos y cambia el estado de algúno con los comandos que 
 
 ¿Como reiniciarías de forma manual un trabajo llamado peanuts?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo initctl restart peanuts

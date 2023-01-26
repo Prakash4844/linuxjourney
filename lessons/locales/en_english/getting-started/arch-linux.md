@@ -22,6 +22,10 @@ If you're interested in having Arch as your operating system, head over to the i
 
 What package manager does Arch Linux use?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
 
-Pacman
+    Pacman
+</details>
+
+

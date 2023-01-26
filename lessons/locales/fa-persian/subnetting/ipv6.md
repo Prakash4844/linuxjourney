@@ -16,6 +16,8 @@ Check ifconfig to see if you have an IPv6 address listed.
 
 What IP address is used to help increase the number of hosts that can connect to the Internet?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 IPv6

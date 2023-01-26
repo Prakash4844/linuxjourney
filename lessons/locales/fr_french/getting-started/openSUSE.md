@@ -22,6 +22,8 @@ Si vous voulez avoir openSUSE comme syst√®me d'exploitation, rendez vous jusqu'√
 
 Quel est le nom de l'outil d'Administration/Installation de openSUSE?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 yast

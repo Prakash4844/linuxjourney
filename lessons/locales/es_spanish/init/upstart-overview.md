@@ -45,6 +45,8 @@ Si estás utilizando Upstart, trata de entender las configuraciones de los traba
 
 ¿Cuál es la implementación de init que es utilizada en Ubuntu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 upstart

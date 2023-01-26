@@ -46,6 +46,9 @@ Führe das cd Kommando ohne irgendwelche Argumente (Pfadangaben) aus, wo landest
 
 Wenn du dich in /home/pete/Bilder befindest was ist eine gute Abkürzung um ins Verzeichnis /home/pete zu wechseln?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+    
+</details>
 
-cd ..
+

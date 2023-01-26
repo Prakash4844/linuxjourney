@@ -57,6 +57,8 @@ Setup a Samba share, if you don't have one, open up smb.conf and familiarize you
 
 What is the latest protocol used for file transfer between Windows and Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 CIFS

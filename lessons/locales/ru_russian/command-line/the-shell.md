@@ -29,6 +29,8 @@ pete@icebox:/home/pete $</pre>
 
 Что будет выведено на экран, когда вы напишите echo Hello World?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Hello World

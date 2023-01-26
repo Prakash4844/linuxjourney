@@ -26,6 +26,8 @@ Linuxがどこから来たのか知りたければ、その起源は1969年ま�
 
 Linuxカーネルを開発したのはだれ？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 リーナス・トーバルズ

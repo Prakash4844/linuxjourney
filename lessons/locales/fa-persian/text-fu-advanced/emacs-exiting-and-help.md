@@ -26,6 +26,8 @@ Visit the Emacs site to learn about more commands. <a href="https://www.gnu.org/
 
 How do you access the help menu?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 C-h C-h

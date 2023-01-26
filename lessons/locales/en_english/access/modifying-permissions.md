@@ -51,6 +51,8 @@ Change some basic text file permissions and see the bits changing as you do an l
 
 What number represents the read permission when using numerical format?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 4

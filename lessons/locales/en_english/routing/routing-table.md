@@ -45,6 +45,8 @@ Look at your routing table and see where your packets can go.
 
 Where are packets routed to if our routing table doesn't know?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Gateway

@@ -16,6 +16,8 @@ No exercises for this lesson.
 
 What layer is used to present the packet data in a user friendly format?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Application

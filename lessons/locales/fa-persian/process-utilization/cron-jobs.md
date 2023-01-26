@@ -31,6 +31,8 @@ Create a cronjob that you want to run at a scheduled time.
 
 What is the command to edit your cronjobs?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 crontab -e

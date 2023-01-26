@@ -18,6 +18,8 @@ No exercises for this lesson.
 
 Where is the sources file in a Debian system?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /etc/apt/sources.list

@@ -51,6 +51,8 @@ No exercises for this lesson.
 
 What is the command to view NetworkManager information?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 nm-tool

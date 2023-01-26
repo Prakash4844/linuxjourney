@@ -50,6 +50,8 @@ $ echo $PATH
 
 Как вы можете увидеть переменные среды?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 env

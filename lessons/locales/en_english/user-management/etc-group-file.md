@@ -26,6 +26,8 @@ Run the command <b>groups</b>. What do you see?
 
 What is the GID of root?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 0

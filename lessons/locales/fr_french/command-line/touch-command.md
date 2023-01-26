@@ -24,6 +24,8 @@ Il existe plusieurs autres méthodes pour créer des fichiers qui impliquent d'a
 
 Comment créer un fichier avec le nom "monfichier"?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 touch monfichier

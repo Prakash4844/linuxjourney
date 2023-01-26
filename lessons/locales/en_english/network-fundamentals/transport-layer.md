@@ -34,6 +34,8 @@ No exercises for this lesson.
 
 What is a reliable transport protocol?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 TCP

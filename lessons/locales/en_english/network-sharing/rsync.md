@@ -35,6 +35,8 @@ Use rsync to sync a directory to another directory, be sure not to overwrite an 
 
 What command would be useful for data backups?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 rsync

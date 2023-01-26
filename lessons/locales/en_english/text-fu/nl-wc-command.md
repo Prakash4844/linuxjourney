@@ -38,6 +38,8 @@ How would you get the total count of lines by using the nl file without searchin
 
 What command would you use to get the total number of words in a file and just the words?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 wc -w

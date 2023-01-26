@@ -22,6 +22,8 @@ Linuxを使い始めようとしていて、かつ困難な道を行きたいと
 
 Gentooが使っているパッケージ管理システムは？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Portage

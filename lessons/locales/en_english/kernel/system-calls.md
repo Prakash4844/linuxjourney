@@ -20,6 +20,8 @@ No exercises for this lesson.
 
 What is used to switch from user mode to kernel mode?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 system call

@@ -24,6 +24,8 @@ Ubuntu를 당신의 운영체제로 만들고싶다면, 홈페이지의 설치 �
 
 Ubuntu가 기반으로 하고 있는 것은 무엇인가요?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Debian

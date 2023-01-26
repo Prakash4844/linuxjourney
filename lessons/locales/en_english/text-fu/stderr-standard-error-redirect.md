@@ -44,6 +44,8 @@ What is the following command doing?
 
 What is the redirector for stderr?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 2>

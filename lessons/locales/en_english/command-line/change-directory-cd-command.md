@@ -48,6 +48,8 @@ Give them a try!
 
 If you are in /home/pete/Pictures and wanted to go to /home/pete, what’s a good shortcut to use?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 cd ..

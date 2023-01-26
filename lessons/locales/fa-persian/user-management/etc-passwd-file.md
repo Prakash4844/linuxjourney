@@ -34,6 +34,8 @@ Look at your /etc/passwd file, take a look at some of the users and note the acc
 
 If a user doesn't have login access how is that denoted in /etc/passwd?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 *

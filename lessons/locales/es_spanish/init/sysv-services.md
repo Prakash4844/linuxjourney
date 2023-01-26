@@ -30,6 +30,8 @@ Elige un par de servicios y cambia su estado ¿Qué observas?
 
 ¿Cuál es el comando para detener un servicio llamado peanut usando Sys V?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo service peanut stop

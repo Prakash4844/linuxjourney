@@ -22,6 +22,8 @@ Si vous voulez avoir Gentoo comme système d'exploitation, rendez vous jusqu'à 
 
 Quel système de gestion des paquets utilise Gentoo?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Portage

@@ -27,6 +27,8 @@ Run less on a file, then page up and around the file. Try searching for a specif
 
 How do you quit out of a less command?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 q

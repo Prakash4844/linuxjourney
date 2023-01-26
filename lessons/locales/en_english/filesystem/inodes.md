@@ -67,6 +67,8 @@ Observe some inode numbers for different files, which ones are usually created f
 
 How do you see how many inodes are left on your system?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 df -i

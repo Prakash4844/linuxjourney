@@ -32,6 +32,8 @@ Add the USB drive we've been working on as a entry in /etc/fstab, when you reboo
 
 What file is used to define how filesystems should be mounted? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /etc/fstab

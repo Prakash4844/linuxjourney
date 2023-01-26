@@ -22,6 +22,8 @@ Do some failed logins and then a successful one, look at your /var/log/auth.log 
 
 What log is used for user authentication?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 auth.log

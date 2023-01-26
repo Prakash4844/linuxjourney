@@ -30,6 +30,8 @@ Manage a couple of services and change their states, what do you observe?
 
 What is the command to stop a service named peanut with Sys V?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo service peanut stop

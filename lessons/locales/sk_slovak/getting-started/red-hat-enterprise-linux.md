@@ -22,6 +22,8 @@ Ak vás RHEL zaujal a chcete ho ako svoj systém, zamierte do inštalačnej sekc
 
 Akého správcu balíčkov používa RHEL?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 RPM

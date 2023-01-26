@@ -56,6 +56,8 @@ Read up on the manpage for dig.
 
 What tool is used to get detailed information about DNS name servers? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 dig

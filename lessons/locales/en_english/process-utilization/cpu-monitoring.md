@@ -25,6 +25,8 @@ Check the load average of your system and see what it's doing.
 
 What command can you use to see the load average?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 uptime

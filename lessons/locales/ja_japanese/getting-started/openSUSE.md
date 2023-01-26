@@ -22,6 +22,8 @@ OpenSUSEをオペレーティングシステムとして使ってみたいのな
 
 openSUSEの、インストーラー兼管理用ツールの名前は？
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 yast

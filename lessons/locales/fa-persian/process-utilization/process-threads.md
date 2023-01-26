@@ -29,6 +29,8 @@ Run the <b>ps m</b> command and see what processes you have running are multi-th
 
 True or false, all processes start out single-threaded.
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 True

@@ -24,6 +24,8 @@ Create a couple of aliases then remove them.
 
 What command is used to make an alias?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 alias

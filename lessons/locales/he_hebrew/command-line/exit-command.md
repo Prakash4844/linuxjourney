@@ -22,6 +22,8 @@
 
 איך אפשר לצאת מהמסוף?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 exit

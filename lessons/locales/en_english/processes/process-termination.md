@@ -24,6 +24,8 @@ No exercises for this lesson.
 
 What is the most common termination status for a process succeeding?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 0

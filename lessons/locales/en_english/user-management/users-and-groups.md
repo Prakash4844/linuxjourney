@@ -35,6 +35,8 @@ No exercises for this lesson.
 
 What command do you use to run as root?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 sudo

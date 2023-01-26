@@ -29,6 +29,8 @@ No exercises for this lesson.
 
 How do we find the MAC address of an IP address?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ARP

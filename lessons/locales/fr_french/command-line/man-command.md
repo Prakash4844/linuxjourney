@@ -18,6 +18,8 @@ Exécutez la commande man sur la commande ls.
 
 Comment voit t-on le manuel d'une commande?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 man

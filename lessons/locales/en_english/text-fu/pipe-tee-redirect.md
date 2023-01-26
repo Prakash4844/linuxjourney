@@ -27,6 +27,8 @@ Try the following commands:
 
 What key represents the pipe operator?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 |

@@ -24,6 +24,8 @@ Run the udevadm command given and check out the input.
 
 What dynamically adds and removes devices? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 udev

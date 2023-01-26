@@ -22,6 +22,8 @@ Si estas interesado en tener Linux Mint como tu sistema operativo, dirígete a l
 
 ¿En cuál sistema operativo esta basado Linux Mint?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Ubuntu

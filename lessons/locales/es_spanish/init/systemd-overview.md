@@ -42,6 +42,8 @@ No hay ejercicios para esta leccion.
 
 ¿Qué unidad es utilizada para agrupar otras unidades?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 objetivo

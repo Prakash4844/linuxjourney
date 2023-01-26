@@ -38,6 +38,8 @@ turtles
 
 Какой командой вы можете получить число слов в файле и просто эти слова?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 wc -w

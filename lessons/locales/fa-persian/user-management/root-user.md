@@ -18,6 +18,8 @@ Open up the /etc/sudoers file and see what superuser permissions other users on 
 
 What file shows the users who have access to sudo?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 /etc/sudoers

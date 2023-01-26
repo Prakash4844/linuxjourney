@@ -28,6 +28,8 @@
 
 چه عددی نمایش‌دهنده‌ی SGID است؟
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 2

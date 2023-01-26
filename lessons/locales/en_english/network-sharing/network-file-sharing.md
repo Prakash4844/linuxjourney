@@ -28,6 +28,8 @@ Try to copy a file over with scp from one machine to another.
 
 What command can you use to securely copy files from one host to another?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 scp

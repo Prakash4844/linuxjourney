@@ -18,6 +18,8 @@ Make a couple of directories and move some files into that directory.
 
 What command is use to make a directory?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 mkdir

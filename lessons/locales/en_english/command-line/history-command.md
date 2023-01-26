@@ -28,6 +28,8 @@ Navigate through your previous command history with the Up and Down keys. Play a
 
 What is the command to clear the terminal? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 clear

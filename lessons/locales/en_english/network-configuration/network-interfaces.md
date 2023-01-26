@@ -77,6 +77,8 @@ Can you change your network interface's with both the ifconfig and ip commands ?
 
 What is the command to configure our network interfaces?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 ifconfig

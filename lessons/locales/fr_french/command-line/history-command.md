@@ -28,6 +28,8 @@ Consultez l'historique de vos commandes avec les touches Haut et Bas. Amusez-vou
 
 Quelle est la commande pour nettoyer la console?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 clear

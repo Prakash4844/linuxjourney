@@ -23,6 +23,8 @@ Si vous voulez avoir Arch comme système d'exploitation, rendez vous jusqu'à la
 
 Quel gestionnaire de paquets utilise Arch Linux?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 Pacman

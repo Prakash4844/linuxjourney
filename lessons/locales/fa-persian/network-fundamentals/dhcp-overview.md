@@ -27,6 +27,8 @@ No exercises for this lesson.
 
 What are the steps in a DHCP request? 
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 DISCOVER, OFFER, REQUEST, ACK

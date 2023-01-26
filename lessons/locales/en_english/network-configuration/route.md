@@ -44,6 +44,8 @@ There are no exercises for this lesson but you can read more information on comm
 
 What is the command flag to delete a route?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 del

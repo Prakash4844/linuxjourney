@@ -43,6 +43,8 @@ $ > somefile.txt
 
 Какой оператор перенаправляет вывод в файл?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 >>

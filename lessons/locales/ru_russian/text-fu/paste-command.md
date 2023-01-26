@@ -32,6 +32,8 @@ fox
 
 Какой флаг вы используете вместе с paste, чтобы все было в одной строке?
 
-## Quiz Answer
+<details>
+    <summary>Quiz Answer</summary>
+</details>
 
 -s
