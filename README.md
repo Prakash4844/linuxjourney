@@ -2,6 +2,10 @@
 
 [Linux Journey](https://linuxjourney.com) is a site dedicated to making learning Linux fun and easy.
 
+## Test_MD_Site
+I have tried to make the site work just by using MD files so, i don't know.
+Link to [English Version](lessons/locales/en_english/getting-started/linux-history.md)
+
 ## Project Hiatus
 
 Due to the overwhelming support for translations, Linux Journey is in the middle of a site overhaul to make it more scalable for translations. Unfortunately, I am a full time professional and full time student so it has taken longer to do the migration than I had hoped. For now, any additional translations/edits/additions will not be added to the site. I'll try my best to finish adding everything that was already committed and will re-visit the project when I have more cycles. Thank you for understanding.
