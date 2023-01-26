@@ -27,3 +27,5 @@ What package manager does RHEL use?
 
         RPM
 </details>
+
+[Ubuntu -->](ubuntu.md)

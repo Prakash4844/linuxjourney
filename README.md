@@ -4,7 +4,8 @@
 
 ## Test_MD_Site
 I have tried to make the site work just by using MD files so, i don't know.
-Link to [English Version](https://prakash4844.github.io/linuxjourney/)
+Link to [Homepage](https://prakash4844.github.io/linuxjourney/)
+Link to [English Version](https://prakash4844.github.io/linuxjourney/lessons/locales/en_english/home_page.html)
 
 ## Project Hiatus
 

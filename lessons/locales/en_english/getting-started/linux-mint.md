@@ -27,3 +27,5 @@ What is Linux Mint based off of?
 
         Ubuntu
 </details>
+
+[Gentoo -->](gentoo.md)

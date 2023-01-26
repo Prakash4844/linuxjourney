@@ -28,4 +28,4 @@ What package manager does Arch Linux use?
         Pacman
 </details>
 
-
+[OpenSUSE -->](openSUSE.md)
