@@ -28,6 +28,7 @@ What option should I specify for find if I want to search by name?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>-name</code>
 </details>
 
--name
+[help -->](help-command.md)

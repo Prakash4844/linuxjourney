@@ -38,6 +38,7 @@ How do you rename a file called cat to dog?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>mv cat dog</code>
 </details>
 
-mv cat dog
+[mkdir (Make Directory)-->](make-directory-mkdir-command.md)

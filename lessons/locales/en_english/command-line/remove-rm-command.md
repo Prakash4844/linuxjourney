@@ -41,4 +41,7 @@ How do you remove a file called myfile?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>rm myfile</code>
 </details>
+
+[find -->](find-command.md)

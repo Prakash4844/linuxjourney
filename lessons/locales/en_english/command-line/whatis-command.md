@@ -18,6 +18,7 @@ What command can you use to see a small description of a command?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>whatis</code>
 </details>
 
-whatis
+[alias -->](alias-command.md)

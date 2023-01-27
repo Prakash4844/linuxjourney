@@ -40,6 +40,7 @@ What flag do you need to specify to copy over a directory?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>-r</code>
 </details>
 
--r
+[mv (Move)-->](move-mv-command.md)

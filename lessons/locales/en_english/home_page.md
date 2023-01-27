@@ -2,9 +2,9 @@
 
 ## Grasshopper
 
-* Getting Started - What is Linux? Get started with choosing a distribution and installation.
+* [Getting Started](getting-started/linux-history.md) - What is Linux? Get started with choosing a distribution and installation.
 
-* Command Line - Learn the fundamentals of the command line, navigating files, directories and more.
+* [Command Line](command-line/the-shell.md) - Learn the fundamentals of the command line, navigating files, directories and more.
 
 * Text-Fu - Learn basic text manipulation and navigation.
 

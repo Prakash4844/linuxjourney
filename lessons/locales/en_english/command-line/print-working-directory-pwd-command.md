@@ -35,6 +35,8 @@ How do I find what directory you are currently in?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>pwd</code>
+
 </details>
 
-pwd
+[cd (Change Working Directory)-->](change-directory-cd-command.md)

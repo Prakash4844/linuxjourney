@@ -50,6 +50,8 @@ If you are in /home/pete/Pictures and wanted to go to /home/pete, what’s a goo
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>cd ..</code>
 </details>
 
-cd ..
+[ls (List Directory)-->](list-directories-ls-command.md)
+

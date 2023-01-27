@@ -32,3 +32,5 @@ What is the name of openSUSE's Administration/Installation Tool?
 
 [Homepage-->](../home_page.md)
 
+[Next Section: Command Line/The Shell -->](../command-line/the-shell.md)
+

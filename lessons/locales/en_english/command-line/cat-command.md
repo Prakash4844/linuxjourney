@@ -18,6 +18,7 @@ What's a good way to see the contents of a file?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>cat</code>
 </details>
 
-cat
+[less -->](less-command.md)

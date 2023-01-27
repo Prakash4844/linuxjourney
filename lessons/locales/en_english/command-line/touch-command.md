@@ -26,6 +26,7 @@ How do you create a file called myfile?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>touch myfile</code>
 </details>
 
-touch myfile
+[file -->](file-command.md)

@@ -31,6 +31,7 @@ What should be outputted to the display when you type echo Hello World?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>Hello World</code>
 </details>
 
-Hello World
+[pwd (Print Working Directory)-->](print-working-directory-pwd-command.md)

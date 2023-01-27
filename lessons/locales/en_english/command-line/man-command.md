@@ -20,6 +20,7 @@ How do you see the manuals for a command?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>man</code>
 </details>
 
-man
+[whatis -->](whatis-command.md)

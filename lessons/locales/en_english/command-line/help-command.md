@@ -22,6 +22,7 @@ How do you get quick command line help for built-in bash commands?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>help</code>
 </details>
 
-help
+[man (Manual Page)-->](man-command.md)

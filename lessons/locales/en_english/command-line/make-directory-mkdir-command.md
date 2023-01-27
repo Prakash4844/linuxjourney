@@ -20,6 +20,7 @@ What command is use to make a directory?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>mkdir</code>
 </details>
 
-mkdir
+[rm (Remove)-->](remove-rm-command.md)

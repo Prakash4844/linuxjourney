@@ -30,6 +30,7 @@ What is the command to clear the terminal?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>clear</code>
 </details>
 
-clear
+[cp (Copy)-->](copy-cp-command.md)

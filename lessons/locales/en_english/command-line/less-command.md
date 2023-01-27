@@ -29,6 +29,7 @@ How do you quit out of a less command?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>q</code>
 </details>
 
-q
+[history -->](history-command.md)

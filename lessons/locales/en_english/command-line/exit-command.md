@@ -24,6 +24,9 @@ How can you exit from the shell?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>exit</code>
 </details>
 
-exit
+[Homepage-->](../home_page.md)
+
+[Next Section: Text-Fu/stdout -->](../text-fu/stdout-standard-out-redirect.md)

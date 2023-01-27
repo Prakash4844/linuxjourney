@@ -26,6 +26,7 @@ What command is used to make an alias?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>alias</code>
 </details>
 
-alias
+[exit -->](exit-command.md)

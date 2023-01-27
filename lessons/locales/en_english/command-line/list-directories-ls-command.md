@@ -42,6 +42,7 @@ What command would you use to see hidden files?
 
 <details>
     <summary>Quiz Answer</summary>
+        <code>ls -a</code>
 </details>
 
-ls -a
+[touch -->](touch-command.md)

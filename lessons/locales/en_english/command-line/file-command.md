@@ -20,6 +20,7 @@ What command can you use to find the file type of a file?
 
 <details>
     <summary>Quiz Answer</summary>
+    <code>file</code>
 </details>
 
-file
+[cat (Concatenate)-->](cat-command.md)
