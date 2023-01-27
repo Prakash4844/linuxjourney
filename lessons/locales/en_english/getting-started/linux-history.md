@@ -28,8 +28,11 @@ Who developed the Linux kernel?
 
 <details>
     <summary>Quiz Answer</summary>
-    
-        Linus Torvalds
+    <pre>
+        <code>
+            Linus Torvalds
+        </code>
+    </pre>
 </details> 
 
 [Choosing a Linux Distribution -->](choosing-a-linux-distribution.md)
