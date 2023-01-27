@@ -24,8 +24,10 @@ What package manager does RHEL use?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         RPM
-</details>
+</code>
+</details> 
+
 
 [Ubuntu -->](ubuntu.md)

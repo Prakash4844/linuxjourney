@@ -27,6 +27,8 @@ No questions, skip ahead!
 
 <details>
     <summary>Quiz Answer</summary>
-</details>
+
+</details> 
+
 
 [Debian -->](debian.md)

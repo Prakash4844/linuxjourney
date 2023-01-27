@@ -24,8 +24,10 @@ What is RHEL branched off of?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         Fedora
-</details>
+</code>
+</details> 
+
 
 [Linux Mint -->](linux-mint.md)

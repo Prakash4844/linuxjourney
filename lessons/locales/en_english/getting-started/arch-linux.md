@@ -24,8 +24,10 @@ What package manager does Arch Linux use?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         Pacman
-</details>
+</code>
+</details> 
+
 
 [OpenSUSE -->](openSUSE.md)

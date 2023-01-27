@@ -24,8 +24,10 @@ What package management system does Gentoo use?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         Portage
-</details>
+</code>
+</details> 
+
 
 [Arch -->](arch-linux.md)

@@ -24,8 +24,10 @@ What is Linux Mint based off of?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         Ubuntu
-</details>
+</code>
+</details> 
+
 
 [Gentoo -->](gentoo.md)

@@ -3,7 +3,7 @@
 ## Lesson Content
 
 <b>Overview</b>
-One of the most popular Linux distributions for personal machines is Ubuntu. Ubuntu also releases its own desktop environment manager Unity by default. 
+One of the most popular Linux distributions for personal machines is Ubuntu. Ubuntu also releases its own desktop environment manager Unity by default.
 
 <b>Package Management</b>
 Ubuntu is a Debian-based operating system developed by Canonical. So it uses a core Debian package management system.
@@ -16,7 +16,7 @@ Great for any platform, desktop, laptop and server.
 
 ## Exercise
 
-If you're interested in having Ubuntu as your operating system, head over to the installation section and give it a try: 
+If you're interested in having Ubuntu as your operating system, head over to the installation section and give it a try:
 <a href='http://www.ubuntu.com/'>http://www.ubuntu.com/</a>
 
 ## Quiz Questions
@@ -25,8 +25,9 @@ What operating system is Ubuntu based off of?
 
 <details>
     <summary>Quiz Answer</summary>
-
+<code>
         Debian
+</code>
 </details>
 
 [Fedora -->](fedora.md)
